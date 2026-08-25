@@ -5,7 +5,7 @@ experiment tracking. Subclass one base module, supply a network, and inherit
 typed metrics, execution options that carry their own rationale, latency and
 memory profiling, and Weights & Biases tracking.
 
-[![ci](https://github.com/xmkqv/ml-utils/actions/workflows/ci.yml/badge.svg)](https://github.com/xmkqv/ml-utils/actions/workflows/ci.yml)
+[![ci](https://github.com/xmkqv/ml-utils/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/xmkqv/ml-utils/actions/workflows/ci.yml)
 [![python](https://img.shields.io/badge/python-3.13%2B-blue.svg)](https://www.python.org/)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
